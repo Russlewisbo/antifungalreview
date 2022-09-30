@@ -46,12 +46,76 @@ vistime (timeline,
 
 ![](mechanisms.png){fig-align="center"}
 
-## Amphotericin B: The historic gold standard
+## Amphotericin B-deoxycholate: <br> The "historic" gold standard
 
-![](AMB_chol_ergo.png){fig-align="center" width="1800"}
+![](AMB_chol_ergo.png){fig-align="center" width="800"}
 
-## Amphotericin B: Mechanism of Action
+## Amphotericin B: Mechanisms of action
+
+<br>
+
+![](AMB_MOA.png){fig-align="center" width="3000"}
 
 ## Amphotericin B: Spectrum of activity
 
+<br>
+
 ![](Spectrum_AMB.png){fig-align="center"}
+
+## Amphotericin B-Immunological effects
+
+<br>
+
+<br>
+
+::: columns
+::: {.column width="40%"}
+![](AMB_immune.png){fig-align="center"}
+:::
+
+::: {.column width="60%"}
+-   AMB directly activates Toll-like receptor 2 (TLR-2) in monocytic cells causing release of TNF-α, IL-1β, IL-6 and prostaglandin E2
+-   Mechanism of infusion-related reactions (IRRs): fever, rigours, headache, nausea, vomiting, hypotension
+-   IRR onset typically 2-6 hours after AMB infusion
+:::
+:::
+
+## Amphotericin B nephrotoxicity
+
+![](AMB_nephro_mech.png){fig-align="center"} IN 10 clinical trials, AMB-deoxycholate associated with \> 2 fold increased in SeCr in 26% of patients
+
+::: aside
+[@aguirre2013J]
+:::
+
+## Antifungal timeline
+
+<br>
+
+```{r}
+library(readxl)
+timeline <- read_excel("timeline.xlsx", col_types = c("text", "date", "text", "text", "text", "text"))
+library (vistime)
+vistime (timeline, 
+         col.event = "event",
+         col.start = "start",
+         col.group = "group",
+         col.color = "color",
+         col.fontcolor = "fontcolor",
+         col.tooltip = "tooltip",
+         optimize_y = TRUE,
+         linewidth = NULL,
+         title = NULL,
+         show_labels = TRUE,
+         background_lines = NULL)
+```
+
+## Lipid formulations of amphotericin B
+
+![](lipidform.png){fig-align="center"}
+
+::: aside
+[@aguirre2013J]
+:::
+
+## References
