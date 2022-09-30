@@ -43,3 +43,15 @@ vistime (timeline,
 ```
 
 ## Antifungal mechanisms of action
+
+![](mechanisms.png){fig-align="center"}
+
+## Amphotericin B: The historic gold standard
+
+![](AMB_chol_ergo.png){fig-align="center" width="1800"}
+
+## Amphotericin B: Mechanism of Action
+
+## Amphotericin B: Spectrum of activity
+
+![](Spectrum_AMB.png){fig-align="center"}
