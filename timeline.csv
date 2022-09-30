@@ -1,0 +1,21 @@
+﻿event,start,end,group,color,fontcolor
+nystatin,01/10/55,01/10/55,polyene,#004266,#004266
+amphotericin B,01/01/59,01/01/59,polyene,#004266,#004266
+griseofulvin,01/01/60,01/01/60,other,#808080,#808080
+5-FC,01/01/67,01/01/67,other,#808080,#808080
+miconazole,01/10/71,01/10/71,azole,#FCB322,#FCB322
+ketoconazole,01/01/76,01/01/76,azole,#FCB322,#FCB322
+fluconazole,01/01/90,01/01/90,azole,#FCB322,#FCB322
+itraconazole,01/01/91,01/01/91,azole,#FCB322,#FCB322
+terbinafine,01/01/92,01/01/92,other,#808080,#808080
+ABLC,01/01/95,01/01/95,polyene,#808080,#808080
+L-AMB,01/01/96,01/01/96,polyene,#808080,#808080
+ABCD,01/01/97,01/01/97,polyene,#808080,#808080
+caspofungin,01/01/99,01/01/99,echinocandin,#D62828,#D62828
+voriconazole,01/01/02,01/01/02,azole,#FCB322,#FCB322
+micafungin,01/01/05,01/01/05,echinocandin,#D62828,#D62828
+anidulafungin,01/01/06,01/01/06,echinocandin,#D62828,#D62828
+posaconazole,01/01/06,01/01/06,azole,#FCB322,#FCB322
+isavuconazole,01/01/15,01/01/15,azole,#FCB322,#FCB322
+posaconazole tablet,01/01/16,01/01/16,azole,#FCB322,#FCB322
+ibrexafungerp,01/01/21,01/01/21,echinocandin,#D62828,#D62828

@@ -1,0 +1,45 @@
+---
+format:
+  revealjs:
+    touch: true
+    controls: true
+    transition: fade
+    transition-speed: fast
+    scrollable: true
+    slide-number: false
+    incremental: true
+    multiplex: true
+    chalkboard: true
+    theme: [default, custom.scss]
+bibliography: references.bib
+---
+
+## Pros and Cons of Currently Approved Antifungals {background-image="antifungal_structures.png"}
+
+<br> <br> <br> <br> <br> <br> <br> <br> <br>
+
+<center>Russell E. Lewis, Pharm.D., FCCP <br> Associate Professor of Medicine, Infectious Diseases <br> Department of Medical and Surgical Sciences <br> University of Bologna</center>
+
+## Antifungal timeline
+
+<br>
+
+```{r}
+library(readxl)
+timeline <- read_excel("timeline.xlsx", col_types = c("text", "date", "text", "text", "text", "text"))
+library (vistime)
+vistime (timeline, 
+         col.event = "event",
+         col.start = "start",
+         col.group = "group",
+         col.color = "color",
+         col.fontcolor = "fontcolor",
+         col.tooltip = "tooltip",
+         optimize_y = TRUE,
+         linewidth = NULL,
+         title = NULL,
+         show_labels = TRUE,
+         background_lines = NULL)
+```
+
+## Antifungal mechanisms of action
