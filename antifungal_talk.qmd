@@ -14,7 +14,7 @@ format:
 bibliography: references.bib
 ---
 
-## Pros and Cons of Currently Approved Antifungals {background-image="antifungal_structures.png"}
+## Pros and Cons of Currently Approved Antifungals {background-image="aspergillus.png"}
 
 <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
@@ -118,7 +118,7 @@ vistime (timeline,
 [@aguirre2013J]
 :::
 
-## Liposomal amphotericin B summary {background-image="antifungal_structures.png"}
+## Liposomal amphotericin B summary {background-image="aspergillus.png"}
 <br>
 
 ::: columns
