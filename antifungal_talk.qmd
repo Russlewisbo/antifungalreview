@@ -118,4 +118,35 @@ vistime (timeline,
 [@aguirre2013J]
 :::
 
+## Liposomal amphotericin B summary {background-image="antifungal_structures.png"}
+<br>
+
+::: columns
+::: {.column width="50%"}
+**Established roles**
+
+-   Empiric therapy in patients with prior echinocandin or triazole treatment
+-   Directed therapy for triazole or echinocandin-resistant yeast or molds
+-   Durg of choice for induction therapy for cryptococcal meningitis (with 5-FC/fluconazole backbone)
+-   Initial drug of choice for severe endemic fungal infections, mucormycosis
+-   "Bridge" therapy in patients who cannot take triazoles
+-   Visceral leishmaniasis
+:::
+
+::: {.column width="50%"}
+**Current limitations**
+
+-   IRRs with AMB-deoxycholate, complement-activation related pseudoallergy (CARPA) reactions with L-AMB
+-   Nephrotoxicity
+-   Not an ideal "outpatient" drug for most infections
+-   Limited drug distribution to urine
+:::
+:::
+
 ## References
+
+<br>
+
+All images were preapred by the author using www.biorender.com
+
+<br>
